@@ -14,7 +14,7 @@ A modern web-based restaurant ordering system built with Streamlit that allows c
 ## 🚀 Demo
 
 ![Restaurant App Demo](interface.png)
-![Restaurant App Demo](menu.json)
+![Restaurant App Demo](dataimage.png)
 ![Restaurant App Demo](price.png)
 ![Restaurant App Demo](qr.png)
 
