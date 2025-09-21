@@ -4,7 +4,7 @@ import streamlit as st
 import qrcode
 from PIL import Image
 import io
-
+# Updated from VS Code
 # Load menu
 with open("menu.json", "r") as f:
     menu = json.load(f)
