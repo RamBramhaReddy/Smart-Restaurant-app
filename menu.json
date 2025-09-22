@@ -82,66 +82,50 @@
     }
   },
   "Indian Breads": {
-    "Veg": {
-      "Rumali Roti": {
-        "Standard": 20
-      },
-      "Butter Naan": {
-        "Standard": 40
-      },
-      "Plain Naan": {
-        "Standard": 35
-      },
-      "Tandoori Roti": {
-        "Standard": 25
-      },
-      "Lachha Paratha": {
-        "Standard": 40
-      },
-      "Stuffed Paratha": {
-        "Standard": 50
-      },
-      "Missi Roti": {
-        "Standard": 30
-      }
-    }
+    "Rumali Roti": 20,
+    "Butter Naan": 40,
+    "Plain Naan": 35,
+    "Tandoori Roti": 25,
+    "Lachha Paratha": 40,
+    "Stuffed Paratha": 50,
+    "Missi Roti": 30
   },
   "Starters": {
     "Veg": {
       "Veg Spring Roll": {
-        "Standard": 110
+        "Plate": 110
       },
       "Paneer 65": {
-        "Standard": 130
+        "Plate": 130
       },
       "Chilli Paneer": {
-        "Standard": 140
+        "Plate": 140
       },
       "Veg Pakora": {
-        "Standard": 90
+        "Plate": 90
       },
       "Gobi Manchurian": {
-        "Standard": 110
+        "Plate": 110
       },
       "Veg Cutlet": {
-        "Standard": 90
+        "Plate": 90
       },
       "Hara Bhara Kebab": {
-        "Standard": 120
+        "Plate": 120
       },
       "Mushroom 65": {
-        "Standard": 120
+        "Plate": 120
       }
     },
     "Non-Veg": {
       "Chicken 65": {
-        "Standard": 160
+        "Plate": 160
       },
       "Chicken Manchurian": {
-        "Standard": 160
+        "Plate": 160
       },
       "Pepper Chicken": {
-        "Standard": 160
+        "Plate": 160
       },
       "Tangdi Kebab": {
         "2 Pc": 130
@@ -155,161 +139,161 @@
         "Full": 310
       },
       "Chicken Tikka": {
-        "Standard": 180
+        "Plate": 180
       },
       "Murg Malai Kebab": {
-        "Standard": 180
+        "Plate": 180
       },
       "Fish Tikka": {
-        "Standard": 250
+        "Plate": 250
       },
       "Prawns Fry": {
-        "Standard": 220
+        "Plate": 220
       },
       "Chicken Seekh Kebab": {
-        "Standard": 160
+        "Plate": 160
       },
       "Mutton Seekh Kebab": {
-        "Standard": 190
+        "Plate": 190
       }
     }
   },
   "Curries": {
     "Veg": {
       "Dal Fry": {
-        "Standard": 110
+        "Plate": 110
       },
       "Dal Tadka": {
-        "Standard": 120
+        "Plate": 120
       },
       "Paneer Butter Masala": {
-        "Standard": 160
+        "Plate": 160
       },
       "Paneer Tikka Masala": {
-        "Standard": 170
+        "Plate": 170
       },
       "Mix Veg Curry": {
-        "Standard": 130
+        "Plate": 130
       },
       "Bhindi Masala": {
-        "Standard": 120
+        "Plate": 120
       },
       "Mushroom Masala": {
-        "Standard": 140
+        "Plate": 140
       },
       "Aloo Gobi": {
-        "Standard": 110
+        "Plate": 110
       }
     },
     "Non-Veg": {
       "Butter Chicken": {
-        "Standard": 190
+        "Plate": 190
       },
       "Chicken Curry": {
-        "Standard": 170
+        "Plate": 170
       },
       "Andhra Chicken Curry": {
-        "Standard": 180
+        "Plate": 180
       },
       "Kadai Chicken": {
-        "Standard": 180
+        "Plate": 180
       },
       "Chicken Masala": {
-        "Standard": 170
+        "Plate": 170
       },
       "Chicken Korma": {
-        "Standard": 180
+        "Plate": 180
       },
       "Mutton Curry": {
-        "Standard": 220
+        "Plate": 220
       },
       "Mutton Rogan Josh": {
-        "Standard": 230
+        "Plate": 230
       },
       "Fish Curry": {
-        "Standard": 210
+        "Plate": 210
       }
     }
   },
   "Chinese Dishes": {
     "Veg": {
       "Egg Fried Rice": {
-        "Standard": 120
+        "Plate": 120
       },
       "Veg Fried Rice": {
-        "Standard": 110
+        "Plate": 110
       },
       "Veg Noodles": {
-        "Standard": 110
+        "Plate": 110
       },
       "Paneer Fried Rice": {
-        "Standard": 130
+        "Plate": 130
       },
       "Gobi Fried Rice": {
-        "Standard": 120
+        "Plate": 120
       }
     },
     "Non-Veg": {
       "Chicken Fried Rice": {
-        "Standard": 140
+        "Plate": 140
       },
       "Chicken Noodles": {
-        "Standard": 140
+        "Plate": 140
       },
       "Chilli Chicken": {
-        "Standard": 160
+        "Plate": 160
       }
     }
   },
   "Snacks/Shawarma & Sides": {
     "Veg": {
       "French Fries": {
-        "Standard": 80
+        "Plate": 80
       },
       "Veg Puff": {
-        "Standard": 30
+        "Plate": 30
       },
       "Egg Puff": {
-        "Standard": 40
+        "Plate": 40
       }
     },
     "Non-Veg": {
       "Chicken Shawarma": {
-        "Standard": 90
+        "Plate": 90
       },
       "Special Chicken Shawarma": {
-        "Standard": 110
+        "Plate": 110
       },
       "Chicken Rumali Shawarma": {
-        "Standard": 100
+        "Plate": 100
       }
     }
   },
   "Desserts & Beverages": {
     "Veg": {
       "Gulab Jamun": {
-        "Standard": 60
+        "Plate": 60
       },
       "Fruit Salad": {
-        "Standard": 80
+        "Plate": 80
       },
       "Double Ka Meetha": {
-        "Standard": 70
+        "Plate": 70
       },
       "Irani Chai": {
-        "Standard": 20
+        "Cup": 20
       },
       "Masala Chai": {
-        "Standard": 25
+        "Cup": 25
       },
       "Coffee": {
-        "Standard": 30
+        "Cup": 30
       },
       "Soft Drinks": {
-        "Standard": 30
+        "Glass": 30
       },
       "Mineral Water": {
-        "Standard": 20
+        "Bottle": 20
       }
     }
   },
