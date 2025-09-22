@@ -34,7 +34,7 @@ A modern web-based restaurant ordering system built with Streamlit that allows c
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-restaurant-app.git
+   git clone [https://github.com/yourusername/smart-restaurant-app.git](https://github.com/RamBramhaReddy/Smart-Restaurant-app.git)
    cd smart-restaurant-app
    ```
 
