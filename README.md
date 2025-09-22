@@ -32,23 +32,58 @@ A modern web-based restaurant ordering system built with Streamlit that allows c
 
 ## 🛠️ Installation
 
+### Method 1: Using Conda (Recommended)
+
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/smart-restaurant-app.git
+   git clone https://github.com/RamBramhaReddy/Smart-Restaurant-app.git
    cd smart-restaurant-app
    ```
 
-2. **Install dependencies**
+2. **Create conda environment**
+   ```bash
+   conda create --name restaurant-app python=3.12
+   conda activate restaurant-app
+   ```
+
+3. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the application**
+4. **Run the application**
    ```bash
    streamlit run first.py
    ```
 
-4. **Open your browser**
+5. **Open your browser**
+   Navigate to `http://localhost:8501`
+
+### Method 2: Using pip (Alternative)
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/RamBramhaReddy/Smart-Restaurant-app.git
+   cd smart-restaurant-app
+   ```
+
+2. **Create virtual environment** (optional but recommended)
+   ```bash
+   python -m venv restaurant-env
+   source restaurant-env/bin/activate  # On Windows: restaurant-env\Scripts\activate
+   ```
+
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+4. **Run the application**
+   ```bash
+   streamlit run first.py
+   ```
+
+5. **Open your browser**
    Navigate to `http://localhost:8501`
 
 ## 📁 Project Structure
